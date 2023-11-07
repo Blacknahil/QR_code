@@ -8,14 +8,14 @@
     height:80%;
 }
 .inner-container{
-    margin:10px;
+    margin:20%;
 }
 body{
     background-color: hsl(212, 45%, 89%);
 }
 h2{
     text-align:center;
-    margin:20px 25px 20px 25px;
+    margin:20% 25% 20% 25%;
 
 
 }
@@ -23,7 +23,7 @@ p{
     text-align:center;
     font-size:18px;
     color:hsl(220, 15%, 55%);
-    margin:20px 25px 20px 25px;
+    margin:20% 25% 20% 25%;
 }
 img{
     width:95%;
